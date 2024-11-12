@@ -1,0 +1,32 @@
+*{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+ nav ul{
+display: flex;
+justify-content:space-between;
+}
+ul{
+    background-color: rgb(49, 45, 45); 
+    list-style-type: none;
+    margin: 0px;
+  
+
+  }
+  li{
+    padding: 5px;
+  }
+a{
+    text-decoration: none;
+    color: white;
+  
+}
+li:hover{
+  background-color: rgb(199, 187, 187);
+}
+li:hover a{
+  color: black;
+}
+
+  
